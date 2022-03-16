@@ -28,7 +28,7 @@ mesaj = 'Merhaba'; // Merhaba karakter dizisini mesaja atadınız
 */!*
 ```
 
-Artık karakter dizi değişken ile ilintili olan hafıza bölgesine kaydedildi. Artık değişken ismi kullanarak bu değere erişilebilir.
+Artık karakter dizi değişken ile ilintili olan hafıza bölgesine kaydedildi. Artık değişkenin ismi kullanılarak bu değere erişilebilir.
 
 ```js run
 let mesaj;
