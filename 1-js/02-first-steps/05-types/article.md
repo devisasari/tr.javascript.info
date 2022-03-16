@@ -8,7 +8,7 @@ let mesaj = "merhaba";
 mesaj = 123456;
 ```
 
-Bu şekilde olaylara izin veren tipdeki dillere "dinamik tip" dil denir. Veri yapıları olsa bile değişkenler bu yapılara bağlı değildir.
+Bu şekilde olaylara izin veren tipdeki dillere "dinamik tip" dil denir. Veri tipleri olsa bile değişkenler bu tiplere bağlı değildir.
 
 JavaScript dilinde sekiz farklı veri tipi bulunmaktadır. Şimdilik bu tiplerden bahsedeceğiz gelecek bölümlerde ise daha derinlemesine bu tipleri inceleyeceğiz.
 
