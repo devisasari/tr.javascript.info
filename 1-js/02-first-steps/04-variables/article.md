@@ -8,7 +8,7 @@ Değişkenler bu bilgileri tutmak için kullanılırlar.
 
 ## Değişken
 
-[Değişken](https://tr.wikipedia.org/wiki/De%C4%9Fi%C5%9Fken)  "isimlendirilmiş hafıza" olarak adlandırılır. Değişkenler ile kullanıcıları, ürünleri ve diğer tipdeki bilgileri tutabiliriz.  
+[Değişken](https://tr.wikipedia.org/wiki/De%C4%9Fi%C5%9Fken)  "isimlendirilmiş hafıza" olarak adlandırılır. Değişkenler ile kullanıcıları, ürünleri ve diğer tipteki bilgileri tutabiliriz.  
 
 JavaScript dilinde değişken `let` kelimesiyle üretilir.
 
